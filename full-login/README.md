@@ -2,7 +2,7 @@
 Shows the user a login form with both possibilities: login with username and
 password or login anonymously with a nickname.
 
-![FullLogin](/cescobarresi/candy-plugins/blob/master/full-login/screenshot.png)
+![FullLogin](/cescobarresi/candy-plugins/raw/master/full-login/screenshot.png)
 
 ## Usage
 To enable full-login you have to include its javascript code:
