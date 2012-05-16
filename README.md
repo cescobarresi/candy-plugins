@@ -10,6 +10,7 @@ This is the official plugin repository for [Candy](http://candy-chat.github.com/
 * __jQuery-Ui__ - jQuery UI lightness theme
 * __Room Panel__ - Provides a list of rooms available to join.
 * __Timeago__ - Replaces the exact time/date with fuzzy timestamps like "2 minutes ago".
+* __Full login__ - Adds a login box for both autheticated and anonymous users.
 
 Support & Community
 -------------------
